@@ -25,14 +25,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-**Web & Tools:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📈 GitHub Stats
 
@@ -41,15 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyanunes&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-### 🎲 Beyond the Code
-
-When I'm not thinking about systems design or accessibility, you can find me:
-*   Planning an RPG campaign 🎮
-*   Playing online chess ♟️
-*   Reading sci-fi books 📖
-*   Experimenting with photography and illustration 📸
 
 ### 📫 Let's Connect!
 
