@@ -4,64 +4,60 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+<h1 align="center">Hello, I'm Weslley Anunes! 👋</h1>
 
-###
+<h3 align="center">A Brazilian Software Developer passionate about building robust systems and advocating for accessibility.</h3>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+---
 
-###
+### 🧠 About Me
 
-<h1 align="center">hey there 👋</h1>
+*   💻 **I code in:** `Java`, `Python`, `C++`, and `Rust`.
+*   🎯 **Currently focused on:** Backend development, system architecture, and making technology more inclusive.
+*   ♿ **Strong advocate for:** Digital accessibility and neurodiversity in tech. As an autistic developer, I'm deeply interested in creating software that includes everyone.
+*   📚 **Background:** A unique journey through Geography, Systems Analysis, photography, and comic book authoring – all of which shape my problem-solving perspective.
+*   🏡 **Based in** Brazil, enjoying a quiet life with my boyfriend, our dog, and a good sci-fi book.
 
-###
+### 🛠️ Tech Stack
 
-<h3 align="left">👩‍💻  About Me</h3>
+**Backend & Systems:**
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-###
+**Web & Tools:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<p align="left">I'm Weslley from Brazil<br><br>- 🔭 I’m working as <br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+### 📈 GitHub Stats
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=weslleyanunes&show_icons=true&theme=radical" alt="Weslley's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyanunes&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-###
+### 🎲 Beyond the Code
 
-<div align="left">
-  <i class="fa-brands fa-java" style="font-size: 40px; color: #007396;"></i>
-  <img width="12" />
-  <i class="fa-brands fa-python" style="font-size: 40px; color: #3776AB;"></i>
-  <img width="12" />
-  <i class="fa-brands fa-cuttlefish" style="font-size: 40px; color: #00599C;"></i>
-  <img width="12" />
-  <i class="fa-brands fa-rust" style="font-size: 40px; color: #000000;"></i>
-  <img width="12" />
-  <i class="fa-solid fa-code" style="font-size: 40px; color: #007ACC;"></i>
-  <img width="12" />
-  <i class="fa-solid fa-lightbulb" style="font-size: 40px; color: #000000;"></i>
-  <img width="12" />
-  <i class="fa-solid fa-globe" style="font-size: 40px; color: #1B6AC6;"></i>
-  <img width="12" />
-  <i class="fa-solid fa-sun" style="font-size: 40px; color: #2C2255;"></i>
-  <img width="12" />
-  <i class="fa-brands fa-android" style="font-size: 40px; color: #3DDC84;"></i>
-</div>
+When I'm not thinking about systems design or accessibility, you can find me:
+*   Planning an RPG campaign 🎮
+*   Playing online chess ♟️
+*   Reading sci-fi books 📖
+*   Experimenting with photography and illustration 📸
 
-###
+### 📫 Let's Connect!
 
-<h3 align="left">🔥   My Stats :</h3>
+I'm always open to discussing technology, accessibility, or potential collaborations.
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin-aqui/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-twitter-aqui/)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+<!---
+**weslleyanunes/weslleyanunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
