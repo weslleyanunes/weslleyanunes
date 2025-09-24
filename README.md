@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hello, I'm Weslley Anunes! 👋</h1>
+<h1 align="center">Hello, I'm Weslley Nunes! 👋</h1>
 
 <h3 align="center">A Brazilian Software Developer passionate about building robust systems and advocating for accessibility.</h3>
 
